@@ -1,6 +1,10 @@
 # AutoClick
 Automatic Click (Game Robot)
 
+### Download / Télécharger
+
+https://github.com/ddeeproton/AutoClick/raw/master/Releases/AutoClick_v2.exe
+
 ## WARNING
 
 Close and Save all documents before use this software. < Be ready to force to shutdown your computer in case of bad configuration.>
