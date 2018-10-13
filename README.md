@@ -55,7 +55,7 @@ Et clique automatiquement.
 
 -Selectionner enfin l'endroit où on veut que le programme clique lorsqu'il détecte les 2 couleurs, et appuyer sur la touche "3".
 
--Tant que la touche "3" n'a pas été appuyé, on peut changer la sélection des couleurs 1 et 2 en répètant les étapes précédantes.
+-Tant que la touche "3" n'a pas été appuyée, on peut changer la sélection des couleurs 1 et 2 en répètant les étapes précédantes.
 
 -La touche "3" enregistre l'action. Et vous pouvez sélectionner d'autres couleurs et actions en répétants les étapes "1", "2", "3".
 
