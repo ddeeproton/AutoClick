@@ -2,18 +2,15 @@
 Automatic Click (Game Robot)
 
 ## WARNING
-======
 
 Close and Save all documents before use this software. <<Be ready to force to shutdown your computer in case of bad configuration.>>
 
 ## ATTENTION
-=========
 
 Fermez et sauvegardez vos documents avant d''utiliser ce logiciel. <<Soyez prêts à forcer votre ordinateur à s''éteindre en cas de mauvaise configuration.>>
 
 
 ## HOW TO USE
-========
 
 This software needs to see the screen.
 It will check colors at the position specified. 
@@ -32,7 +29,6 @@ And perform automatic click.
 
 
 ## UTILISATION
-========
 
 Ce logiciel a besoin de regarder l''écran.
 Il va vérifier les couleurs à la position indiqué.
@@ -51,7 +47,6 @@ Et clique automatiquement.
 
 
 ## COMPILATION
-========
 
 Lazarus 
 https://www.lazarus-ide.org/
