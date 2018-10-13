@@ -1,18 +1,18 @@
 # AutoClick
 Automatic Click (Game Robot)
 
-##WARNING
+## WARNING
 ======
 
 Close and Save all documents before use this software. <<Be ready to force to shutdown your computer in case of bad configuration.>>
 
-##ATTENTION
+## ATTENTION
 =========
 
 Fermez et sauvegardez vos documents avant d''utiliser ce logiciel. <<Soyez prêts à forcer votre ordinateur à s''éteindre en cas de mauvaise configuration.>>
 
 
-##HOW TO USE
+## HOW TO USE
 ========
 
 This software needs to see the screen.
@@ -31,7 +31,7 @@ And perform automatic click.
 -To stop automatic clicks, press again on button "Play".     
 
 
-##UTILISATION
+## UTILISATION
 ========
 
 Ce logiciel a besoin de regarder l''écran.
@@ -50,18 +50,18 @@ Et clique automatiquement.
 -Pour arrêter les clicks automatique. Appuyer une nouvelle fois sur "Play"'#13#10
 
 
-##COMPILATION
+## COMPILATION
 ========
 
 Lazarus 
 https://www.lazarus-ide.org/
 
-##CHANGES / CHANGEMENT
+## CHANGES / CHANGEMENT
 
-###1.0
+### 1.0
 
 Beta test
 
-###2.0
+### 2.0
 
 First release
