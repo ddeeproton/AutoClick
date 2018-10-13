@@ -34,7 +34,7 @@ And perform automatic click.
 
 -The key 3 will record this action. And you can select another action by repeting the steps "1", "2", "3".
 
--When configuration is done. You can perform automatic clicks by pressing button "Play" or "Play and Hide".
+-When configuration is done. You can perform automatic clicks by pressing button "Play" (or "Play and Hide" for minimize AutoClick).
 
 -To stop automatic clicks, press again on button "Play".     
 
@@ -59,7 +59,7 @@ Et clique automatiquement.
 
 -La touche "3" enregistre l'action. Et vous pouvez sélectionner d'autres couleurs et actions en répétants les étapes "1", "2", "3".
 
--Une fois la configuration terminé. On peut lancer les clicks automatique avec le bouton "Play" ou "Play and Hide".
+-Une fois la configuration terminé. On peut lancer les clicks automatique avec le bouton "Play" (ou "Play and Hide" pour masquer AutoClick).
 
 -Pour arrêter les clicks automatique. Appuyer une nouvelle fois sur "Play"
 
