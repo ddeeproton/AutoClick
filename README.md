@@ -53,7 +53,7 @@ Et clique automatiquement.
 
 -Selectionnez un deuxième pixel, et memoriser avec la touche "2" du clavier.
 
--Selectionner enfin l'endroit où on veut que le programme clique, et memoriser avec la touche "3".
+-Selectionner enfin l'endroit où on veut que le programme clique lorsqu'il détecte les 2 couleurs, et appuyer sur la touche "3".
 
 -Tant que la touche "3" n'a pas été appuyé, on peut changer la sélection des couleurs 1 et 2 en répètant les étapes précédantes.
 
@@ -61,7 +61,7 @@ Et clique automatiquement.
 
 -Une fois la configuration terminé. On peut lancer les clicks automatique avec le bouton "Play" ou "Play and Hide".
 
--Pour arrêter les clicks automatique. Appuyer une nouvelle fois sur "Play"'#13#10
+-Pour arrêter les clicks automatique. Appuyer une nouvelle fois sur "Play"
 
 
 ## COMPILATION
